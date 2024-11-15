@@ -1,6 +1,4 @@
 # GU-Informatik1
-GU Informatik Gemeinschaftsprojekt
+GU Informatik Gemeinschaftsprojekt für Fragenkatalog von Prof. Dr. Lingnau 
 
-##Mögliche Projekte
-- TodoListe
-- Karteikartenapp mit Backend nach OpenAPI Standard in Python (FastAPI?) und Frontend in Whatever 
+Pull-Requests und Branches erwünscht! Wer vollen Zugriff haben, mich (Kai) bitte anschreiben. 
